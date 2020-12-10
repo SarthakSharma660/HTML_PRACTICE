@@ -1,3 +1,4 @@
 # HTML_PRACTICE
 This is my practice repo 
-I watch tutorial online and implement them and upload 
+I watch free tutorial online and implement them 
+to have a record what i do for practice i upload them on github
